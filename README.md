@@ -2,18 +2,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrimchauhan09&label=Profile%20views&color=0e75b6&style=flat" alt="agrimchauhan09" /> </p>
 
--I'm  third-year B.Tech student in Computer Science and Engineering, passionate about AI, Machine Learning, and Deep Learning, constantly exploring advancements in these fields.
--Skilled in MERN stack development, with plans to upload unique and innovative projects on GitHub to showcase technical expertise.
--Proficient in Data Structures and Algorithms, with a problem-solving mindset and a strong grasp of efficient coding practices.
--Known as a prompt master, capable of optimizing ChatGPT and other AI tools to tackle a variety of challenges across domains.
--Focused on practical implementation and continuous learning, with a vision to create cutting-edge solutions in the field of AI and software development.
+- I'm  third-year B.Tech student in Computer Science and Engineering, passionate about AI, Machine Learning, and Deep Learning, constantly exploring advancements in these fields.
+- Skilled in MERN stack development, with plans to upload unique and innovative projects on GitHub to showcase technical expertise.
+- Proficient in Data Structures and Algorithms, with a problem-solving mindset and a strong grasp of efficient coding practices.
+- Known as a prompt master, capable of optimizing ChatGPT and other AI tools to tackle a variety of challenges across domains.
+- Focused on practical implementation and continuous learning, with a vision to create cutting-edge solutions in the field of AI and software development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/agrimchauhan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agrimchauhan10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/agrim-chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agrim-chauhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/agrim-chauhan-a7752424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agrim-chauhan" height="30" width="40" /></a>
 <a href="https://instagram.com/__agrim__thakur__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__agrim__thakur__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@agrimchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@agrimchauhan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@agrimchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@agrimchauhan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/agrimchauhan.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agrimchauhan.18" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/__agrim__chauhan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="__agrim__chauhan__" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/agrimchauhan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="agrimchauhan9" height="30" width="40" /></a>
