@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Agrim Chauhan</h1>
-<h3 align="center">i'm the Best....That's it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrimchauhan09&label=Profile%20views&color=0e75b6&style=flat" alt="agrimchauhan09" /> </p>
 
--I'm a Third-year B.Tech student in Computer Science and Engineering, passionate about AI, Machine Learning, and Deep Learning, constantly exploring advancements in these fields.
-- Skilled in MERN stack development, with plans to upload unique and innovative projects on GitHub to showcase technical expertise.
-- Proficient in Data Structures and Algorithms, with a problem-solving mindset and a strong grasp of efficient coding practices.
-- Known as a prompt master, capable of optimizing ChatGPT and other AI tools to tackle a variety of challenges across domains.
-- Focused on practical implementation and continuous learning, with a vision to create cutting-edge solutions in the field of AI and software development.
-- And friendly to everyone
+-I'm  third-year B.Tech student in Computer Science and Engineering, passionate about AI, Machine Learning, and Deep Learning, constantly exploring advancements in these fields.
+-Skilled in MERN stack development, with plans to upload unique and innovative projects on GitHub to showcase technical expertise.
+-Proficient in Data Structures and Algorithms, with a problem-solving mindset and a strong grasp of efficient coding practices.
+-Known as a prompt master, capable of optimizing ChatGPT and other AI tools to tackle a variety of challenges across domains.
+-Focused on practical implementation and continuous learning, with a vision to create cutting-edge solutions in the field of AI and software development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
