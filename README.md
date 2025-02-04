@@ -24,6 +24,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrimchauhan09&show_icons=true&locale=en&layout=compact" alt="agrimchauhan09" /></p>
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?agrimchauhan.18=redheadphone)](https://codeforces.com/profile/redheadphone)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=agrimchauhan.18)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/__agrim__chauhan__?ext=heatmap)
 ![](https://leetcard.jacoblin.cool/__agrim__chauhan__?ext=contest)
