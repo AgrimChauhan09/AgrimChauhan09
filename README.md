@@ -26,4 +26,3 @@
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=agrimchauhan.18)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/__agrim__chauhan__?ext=heatmap)
-![](https://leetcard.jacoblin.cool/__agrim__chauhan__?ext=contest)
