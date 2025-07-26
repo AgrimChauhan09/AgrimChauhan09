@@ -2,7 +2,7 @@
 
 
 
-- I'm  third-year B.Tech student in Computer Science and Engineering, passionate about AI, Machine Learning, and Deep Learning, constantly exploring advancements in these fields.
+- I'm B.Tech student in Computer Science and Engineering, passionate about AI, Machine Learning, and Deep Learning, constantly exploring advancements in these fields.
 - Skilled in MERN stack development, with plans to upload unique and innovative projects on GitHub to showcase technical expertise.
 - Proficient in Data Structures and Algorithms, with a problem-solving mindset and a strong grasp of efficient coding practices.
 - Known as a prompt master, capable of optimizing ChatGPT and other AI tools to tackle a variety of challenges across domains.
