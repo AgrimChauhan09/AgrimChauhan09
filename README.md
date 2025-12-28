@@ -47,4 +47,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrimchauhan09&show_icons=true&locale=en&layout=compact" alt="agrimchauhan09" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/__agrim__chauhan__?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/__agrim__chauhan__?ext=contest)
