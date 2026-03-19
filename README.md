@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agrim Chauhan</h1>
 
-https://komarev.com/ghpvc/?username=AgrimChauhan09
+![Profile Views](https://komarev.com/ghpvc/?username=AgrimChauhan09&color=blue)
 
 - I'm B.Tech student in Computer Science and Engineering, passionate about AI, Machine Learning, and Deep Learning, constantly exploring advancements in these fields.
 - Skilled in MERN stack development, with plans to upload unique and innovative projects on GitHub to showcase technical expertise.
