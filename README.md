@@ -2,7 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AgrimChauhan09&color=blue)
 
--B.Tech CSE student passionate about building **scalable backend systems** and exploring **AI + system design**. Currently working on **ChronoGrid – a distributed job scheduler**, where I’m learning scalability, reliability, and real-world architecture.<br><br>-Skilled in **Java, Spring Boot, and MERN stack**, with a strong focus on writing clean, efficient, and production-ready code. I enjoy building backend-heavy applications and APIs that solve real problems.<br><br>-Actively learning **HLD, LLD, distributed systems, microservices, and advanced backend engineering**, while exploring concepts like message queues and system scaling.<br><br>-Open to collaborating on **backend, MERN, and open source projects**. Always up for discussions around AI integrations, system design, scalable architectures, and real-world backend challenges.<br><br>-I enjoy turning complex problems into **simple, optimized, and practical solutions**.<br>
+-Computer Science and Engineering student, passionate about Java backend development, MERN stack, and building scalable applications.
+<br><br>-Skilled in Java, Spring Boot, and MERN stack, with a strong focus on writing clean, efficient, and production-ready code.<br><br>-Actively learning HLD, LLD, distributed systems, microservices, and  backend engineering.<br><br>-Open to collaborating on backend, MERN, and open source projects. Always up for discussions around AI integrations, system design, scalable architectures.<br><br>-Proficient in Data Structures and Algorithms, with a problem-solving mindset and a strong grasp of efficient coding practices.<br><br>Focused on practical implementation and continuous learning, with a vision to create cutting-edge solutions in the field of AI and software development.<br>
 
 
 ## 🌐 Socials:
