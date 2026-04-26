@@ -56,9 +56,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AgrimChauhan09&color=blue)
 
 
--Computer Science and Engineering student, passionate about Java backend development, MERN stack, and building scalable applications.
-
-<br><br>-Skilled in Java, Spring Boot, and MERN stack, with a strong focus on writing clean, efficient, and production-ready code.<br><br>-Actively learning HLD, LLD, distributed systems, microservices, and  backend engineering.<br><br>-Open to collaborating on backend, MERN, and open source projects. Always up for discussions around AI integrations, system design, scalable architectures.<br><br>-Proficient in Data Structures and Algorithms, with a problem-solving mindset and a strong grasp of efficient coding practices.<br><br>-Focused on practical implementation and continuous learning, with a vision to create cutting-edge solutions in the field of AI and software development.<br>
+-Computer Science and Engineering student, passionate about Java backend development, MERN stack, and building scalable applications.<br><br>-Skilled in Java, Spring Boot, and MERN stack, with a strong focus on writing clean, efficient, and production-ready code.<br>-Actively learning HLD, LLD, distributed systems, microservices, and  backend engineering.<br><br>-Open to collaborating on backend, MERN, and open source projects. Always up for discussions around AI integrations, system design, scalable architectures.<br><br>-Proficient in Data Structures and Algorithms, with a problem-solving mindset and a strong grasp of efficient coding practices.<br><br>-Focused on practical implementation and continuous learning, with a vision to create cutting-edge solutions in the field of AI and software development.<br>
 
 
 
