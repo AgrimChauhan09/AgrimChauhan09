@@ -53,17 +53,16 @@
 
 <h1 align="center">Hi 👋, I'm Agrim Chauhan</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AgrimChauhan09&color=blue" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=AgrimChauhan09&color=blue)
 
-- Computer Science and Engineering student, passionate about Java backend development, MERN stack, and building scalable applications.
-<br><br>-Skilled in Java, Spring Boot, and MERN stack, with a strong focus on writing clean, efficient, and production-ready code.<br><br>-Actively learning HLD, LLD, distributed systems, microservices, and  backend engineering.
-<br><br>-Open to collaborating on backend, MERN, and open source projects. Always up for discussions around AI integrations, system design, scalable architectures.
-<br><br>-Proficient in Data Structures and Algorithms, with a problem-solving mindset and a strong grasp of efficient coding practices.
-<br><br>-Focused on practical implementation and continuous learning, with a vision to create cutting-edge solutions in the field of AI and software development.<br>
 
-<h3 align="left">Connect with me:</h3>
+-Computer Science and Engineering student, passionate about Java backend development, MERN stack, and building scalable applications.
+
+<br><br>-Skilled in Java, Spring Boot, and MERN stack, with a strong focus on writing clean, efficient, and production-ready code.<br><br>-Actively learning HLD, LLD, distributed systems, microservices, and  backend engineering.<br><br>-Open to collaborating on backend, MERN, and open source projects. Always up for discussions around AI integrations, system design, scalable architectures.<br><br>-Proficient in Data Structures and Algorithms, with a problem-solving mindset and a strong grasp of efficient coding practices.<br><br>-Focused on practical implementation and continuous learning, with a vision to create cutting-edge solutions in the field of AI and software development.<br>
+
+
+
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/agrimchauhan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agrimchauhan10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agrim-chauhan-a7752424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agrim-chauhan" height="30" width="40" /></a>
@@ -103,7 +102,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrimchauhan09&show_icons=true&locale=en&layout=compact" alt="agrimchauhan09" /></p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/__agrim__chauhan__?ext=heatmap)
-
+ -->
 
 <div align="center">
   
